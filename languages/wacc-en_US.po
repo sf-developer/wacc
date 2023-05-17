@@ -1,0 +1,627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Whatsapp chat 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/whatsapp-chat-chitavo\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-28T12:38:35+00:00\n"
+"PO-Revision-Date: 2023-04-28 16:08+0330\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Domain: wacc\n"
+
+#. Plugin Name of the plugin
+msgid "Whatsapp chat"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://chitavo.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin create a whatsapp chat widget on your website"
+msgstr ""
+
+#. Author of the plugin
+msgid "SAFA Team"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://safateam.net"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:19
+#: inc/ajax/wacc-license.php:21
+#: inc/ajax/wacc-save.php:21
+msgid "Security error!"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:23
+msgid "Id not set!"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:37
+msgid "An error occurred on deleting data!"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:54
+#: inc/ajax/wacc-save.php:154
+#: views/admin/edit-widget.php:196
+msgid "avatar"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:55
+#: inc/ajax/wacc-save.php:155
+#: views/admin/edit-widget.php:197
+msgid "Change avatar"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:58
+#: inc/ajax/wacc-delete.php:85
+#: inc/ajax/wacc-save.php:158
+#: inc/ajax/wacc-save.php:185
+#: views/admin/edit-widget.php:200
+#: views/admin/edit-widget.php:228
+msgid "Name"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:62
+#: inc/ajax/wacc-delete.php:89
+#: inc/ajax/wacc-save.php:162
+#: inc/ajax/wacc-save.php:189
+#: views/admin/edit-widget.php:204
+#: views/admin/edit-widget.php:232
+msgid "Position"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:66
+#: inc/ajax/wacc-delete.php:93
+#: inc/ajax/wacc-save.php:166
+#: inc/ajax/wacc-save.php:193
+#: views/admin/edit-widget.php:208
+#: views/admin/edit-widget.php:236
+msgid "Phone"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:81
+#: inc/ajax/wacc-save.php:181
+#: views/admin/edit-widget.php:224
+msgid "Support avatar"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:82
+#: inc/ajax/wacc-save.php:182
+#: views/admin/edit-widget.php:225
+msgid "Choose avatar"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:86
+#: inc/ajax/wacc-save.php:186
+#: inc/main/wacc-menu.php:33
+#: inc/main/wacc-menu.php:34
+#: views/admin/edit-widget.php:229
+msgid "Support"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:90
+#: inc/ajax/wacc-save.php:190
+#: views/admin/edit-widget.php:233
+msgid "Sale manager"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:94
+#: inc/ajax/wacc-save.php:194
+#: views/admin/edit-widget.php:237
+msgid "+15551234"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:111
+#: inc/ajax/wacc-save.php:211
+#: views/admin/edit-widget.php:64
+msgid "Monday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:112
+#: inc/ajax/wacc-save.php:212
+#: views/admin/edit-widget.php:65
+msgid "Tuesday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:113
+#: inc/ajax/wacc-save.php:213
+#: views/admin/edit-widget.php:66
+msgid "Wednesday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:114
+#: inc/ajax/wacc-save.php:214
+#: views/admin/edit-widget.php:67
+msgid "Thursday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:115
+#: inc/ajax/wacc-save.php:215
+#: views/admin/edit-widget.php:68
+msgid "Friday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:116
+#: inc/ajax/wacc-save.php:216
+#: views/admin/edit-widget.php:69
+msgid "Saturday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:117
+#: inc/ajax/wacc-save.php:217
+#: views/admin/edit-widget.php:70
+msgid "Sunday"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:130
+#: inc/ajax/wacc-save.php:230
+#: views/admin/edit-widget.php:84
+#: views/admin/edit-widget.php:167
+msgid "Choose..."
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:137
+#: inc/ajax/wacc-save.php:237
+#: views/admin/edit-widget.php:358
+#: views/admin/edit-widget.php:446
+msgid "Date & Time"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:138
+#: inc/ajax/wacc-save.php:238
+#: views/admin/edit-widget.php:447
+msgid "Choose to display the chat widget on all or specific day(s)."
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:142
+#: inc/ajax/wacc-save.php:242
+#: views/admin/edit-widget.php:451
+msgid "Display on all days and hours"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:144
+#: inc/ajax/wacc-save.php:244
+#: views/admin/edit-widget.php:453
+msgid "Or choose specific day(s) and hour(s) per agent(s):"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:161
+#: inc/ajax/wacc-delete.php:207
+#: inc/ajax/wacc-save.php:261
+#: inc/ajax/wacc-save.php:307
+#: views/admin/edit-widget.php:471
+#: views/admin/edit-widget.php:518
+#: assets/js/ajax.js:172
+#: assets/js/ajax.js:272
+#: assets/js/script.js:143
+msgid "Agent name:"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:170
+#: inc/ajax/wacc-delete.php:216
+#: inc/ajax/wacc-save.php:270
+#: inc/ajax/wacc-save.php:316
+#: views/admin/edit-widget.php:480
+#: views/admin/edit-widget.php:527
+msgid "Day"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:171
+#: inc/ajax/wacc-delete.php:217
+#: inc/ajax/wacc-save.php:271
+#: inc/ajax/wacc-save.php:317
+#: views/admin/edit-widget.php:481
+#: views/admin/edit-widget.php:528
+msgid "Start Time"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:172
+#: inc/ajax/wacc-delete.php:218
+#: inc/ajax/wacc-save.php:272
+#: inc/ajax/wacc-save.php:318
+#: views/admin/edit-widget.php:482
+#: views/admin/edit-widget.php:529
+msgid "Finish Time"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:238
+#: inc/ajax/wacc-save.php:338
+#: views/admin/edit-widget.php:251
+#: views/admin/edit-widget.php:549
+msgid "Add"
+msgstr ""
+
+#: inc/ajax/wacc-delete.php:246
+msgid "Data successfully deleted!"
+msgstr ""
+
+#: inc/ajax/wacc-license.php:25
+msgid "Purchase code not set!"
+msgstr ""
+
+#: inc/ajax/wacc-license.php:50
+msgid "License successfully activated! Please click the button below and wait for the page to reload."
+msgstr ""
+
+#: inc/ajax/wacc-license.php:53
+msgid "The license code is not valid or there was an error in license activation!"
+msgstr ""
+
+#: inc/ajax/wacc-save.php:25
+msgid "Data not set or empty!"
+msgstr ""
+
+#: inc/ajax/wacc-save.php:137
+msgid "An error occurred on saving data!"
+msgstr ""
+
+#: inc/ajax/wacc-save.php:346
+msgid "Data saved successfully."
+msgstr ""
+
+#: inc/main/wacc-database.php:59
+msgid "Text us"
+msgstr ""
+
+#: inc/main/wacc-database.php:62
+msgid "Hi Click one of our members below to chat on <b>WhatsApp</b> ;)"
+msgstr ""
+
+#: inc/main/wacc-database.php:63
+msgid "Powered by Chitavo.com"
+msgstr ""
+
+#: inc/main/wacc-menu.php:22
+msgid "WhatsApp Chat Chitavo"
+msgstr ""
+
+#: inc/main/wacc-menu.php:23
+msgid "WACC"
+msgstr ""
+
+#: inc/main/wacc-menu.php:42
+#: inc/main/wacc-menu.php:43
+msgid "License"
+msgstr ""
+
+#: inc/wacc-loader.php:48
+msgid "WathApp Chat Chitavo(WACC) not activated yet. Click <a href=\"%s\">here</a> to activate"
+msgstr ""
+
+#: views/admin/edit-widget.php:100
+msgid "Appearance"
+msgstr ""
+
+#: views/admin/edit-widget.php:110
+msgid "Configuration"
+msgstr ""
+
+#: views/admin/edit-widget.php:124
+msgid "Content & Icon"
+msgstr ""
+
+#: views/admin/edit-widget.php:127
+#: views/admin/edit-widget.php:184
+msgid "Agents"
+msgstr ""
+
+#: views/admin/edit-widget.php:130
+msgid "Welcome Message"
+msgstr ""
+
+#: views/admin/edit-widget.php:133
+msgid "Contact buttons"
+msgstr ""
+
+#: views/admin/edit-widget.php:136
+msgid "Theme"
+msgstr ""
+
+#: views/admin/edit-widget.php:140
+msgid "Content"
+msgstr ""
+
+#: views/admin/edit-widget.php:143
+msgid "Show icon text"
+msgstr ""
+
+#: views/admin/edit-widget.php:146
+msgid "This content will be displayed next to the icon."
+msgstr ""
+
+#: views/admin/edit-widget.php:151
+msgid "Icon"
+msgstr ""
+
+#: views/admin/edit-widget.php:152
+msgid "Choose your favorite icon."
+msgstr ""
+
+#: views/admin/edit-widget.php:164
+msgid "Widget position"
+msgstr ""
+
+#: views/admin/edit-widget.php:165
+msgid "Choose position of widget."
+msgstr ""
+
+#: views/admin/edit-widget.php:168
+msgid "Right"
+msgstr ""
+
+#: views/admin/edit-widget.php:169
+msgid "Left"
+msgstr ""
+
+#: views/admin/edit-widget.php:173
+msgid "Chat Header Logo"
+msgstr ""
+
+#: views/admin/edit-widget.php:174
+msgid "Add a logo to display in the chat header."
+msgstr ""
+
+#: views/admin/edit-widget.php:176
+#: assets/js/script.js:175
+msgid "Chat header logo"
+msgstr ""
+
+#: views/admin/edit-widget.php:178
+msgid "Upload logo"
+msgstr ""
+
+#: views/admin/edit-widget.php:179
+msgid "Chat Header Text"
+msgstr ""
+
+#: views/admin/edit-widget.php:180
+msgid "Add a text to display in the chat header."
+msgstr ""
+
+#: views/admin/edit-widget.php:185
+msgid "Add or edit agents accounts."
+msgstr ""
+
+#: views/admin/edit-widget.php:257
+msgid "Chat Footer Text"
+msgstr ""
+
+#: views/admin/edit-widget.php:258
+msgid "Add a text to display in the chat footer."
+msgstr ""
+
+#: views/admin/edit-widget.php:264
+msgid "Welcome Alert"
+msgstr ""
+
+#: views/admin/edit-widget.php:265
+msgid "Select audio to play on page load."
+msgstr ""
+
+#: views/admin/edit-widget.php:269
+msgid "Play alert when page loads"
+msgstr ""
+
+#: views/admin/edit-widget.php:292
+msgid "Email"
+msgstr ""
+
+#: views/admin/edit-widget.php:293
+msgid "Add Email button to the footer of the chat widget."
+msgstr ""
+
+#: views/admin/edit-widget.php:297
+msgid "Display email button"
+msgstr ""
+
+#: views/admin/edit-widget.php:300
+msgid "Enter your personal/company email address to show in the footer of the chat widget."
+msgstr ""
+
+#: views/admin/edit-widget.php:301
+msgid "Please input your email here"
+msgstr ""
+
+#: views/admin/edit-widget.php:304
+msgid "FAQs"
+msgstr ""
+
+#: views/admin/edit-widget.php:305
+msgid "Add Q&A button to the footer of the chat widget."
+msgstr ""
+
+#: views/admin/edit-widget.php:309
+msgid "Display faq button"
+msgstr ""
+
+#: views/admin/edit-widget.php:312
+msgid "Enter FAQ page url to show in the footer of the chat widget."
+msgstr ""
+
+#: views/admin/edit-widget.php:313
+msgid "Please input FAQ page url here"
+msgstr ""
+
+#: views/admin/edit-widget.php:318
+msgid "Select theme"
+msgstr ""
+
+#: views/admin/edit-widget.php:319
+msgid "Select widget theme."
+msgstr ""
+
+#: views/admin/edit-widget.php:323
+msgid "Theme 1"
+msgstr ""
+
+#: views/admin/edit-widget.php:324
+msgid "Theme 2"
+msgstr ""
+
+#: views/admin/edit-widget.php:325
+msgid "Theme 3"
+msgstr ""
+
+#: views/admin/edit-widget.php:341
+msgid "In this section you can configure the visibility of the widget."
+msgstr ""
+
+#: views/admin/edit-widget.php:349
+#: views/admin/edit-widget.php:362
+msgid "Pages"
+msgstr ""
+
+#: views/admin/edit-widget.php:352
+#: views/admin/edit-widget.php:388
+msgid "Devices"
+msgstr ""
+
+#: views/admin/edit-widget.php:355
+#: views/admin/edit-widget.php:411
+msgid "Visitors"
+msgstr ""
+
+#: views/admin/edit-widget.php:363
+msgid "Choose to display the chat widget on all or specific page(s)."
+msgstr ""
+
+#: views/admin/edit-widget.php:367
+msgid "Display on all pages"
+msgstr ""
+
+#: views/admin/edit-widget.php:369
+msgid "Or choose specific page(s):"
+msgstr ""
+
+#: views/admin/edit-widget.php:389
+msgid "Choose to display the chat widget on all or specific device(s)."
+msgstr ""
+
+#: views/admin/edit-widget.php:393
+msgid "Display on all devices"
+msgstr ""
+
+#: views/admin/edit-widget.php:395
+msgid "Or choose specific device(s):"
+msgstr ""
+
+#: views/admin/edit-widget.php:400
+msgid "Mobile & Tablet"
+msgstr ""
+
+#: views/admin/edit-widget.php:404
+msgid "PC"
+msgstr ""
+
+#: views/admin/edit-widget.php:412
+msgid "Choose to display the chat widget on all or specific visitor(s)."
+msgstr ""
+
+#: views/admin/edit-widget.php:416
+msgid "Display for all visitors"
+msgstr ""
+
+#: views/admin/edit-widget.php:418
+msgid "Or choose specific visitor(s):"
+msgstr ""
+
+#: views/admin/edit-widget.php:439
+msgid "Guest"
+msgstr ""
+
+#: views/admin/edit-widget.php:563
+msgid "Save"
+msgstr ""
+
+#: views/admin/lic-error.php:27
+msgid "Oh No! an Error."
+msgstr ""
+
+#: views/admin/lic-error.php:34
+msgid "<b>Support section is only available for CodeCanyon clients with activated license.</b> To unlock the in-plugin support, please, activate your license by entering CodeCanyon purchase code of the <a href=\"%1$s\" class=\"%2$s\">plugin</a>."
+msgstr ""
+
+#: views/admin/lic-error.php:41
+msgid "Active plugin"
+msgstr ""
+
+#: views/admin/license.php:36
+msgid "The product has been successfully activated."
+msgstr ""
+
+#: views/admin/license.php:40
+msgid "Product Name"
+msgstr ""
+
+#: views/admin/license.php:44
+msgid "Product ID"
+msgstr ""
+
+#: views/admin/license.php:48
+msgid "Purchase Date"
+msgstr ""
+
+#: views/admin/license.php:52
+msgid "Buyer Name"
+msgstr ""
+
+#: views/admin/license.php:58
+msgid "License Type"
+msgstr ""
+
+#: views/admin/license.php:62
+msgid "Supported Until"
+msgstr ""
+
+#: views/admin/license.php:66
+msgid "Purchase code"
+msgstr ""
+
+#: views/admin/license.php:79
+msgid "Verify Envato Purchase Code"
+msgstr ""
+
+#: views/admin/license.php:80
+msgid "provide purchase code in the input below and get the data."
+msgstr ""
+
+#: views/admin/license.php:86
+msgid "Enter Purchase Code"
+msgstr ""
+
+#: views/admin/license.php:90
+msgid "Verify Purchase"
+msgstr ""
+
+#: views/front/widget-theme-1.php:46
+msgid "logo"
+msgstr ""
+
+#: views/front/widget-theme-1.php:115
+msgid "What to get in touch?"
+msgstr ""
+
+#: views/front/widget-theme-1.php:116
+msgid "We're standing by to answer all of your quetions right now."
+msgstr ""
+
+#: views/front/widget-theme-1.php:117
+msgid "FAQ"
+msgstr ""
+
+#: views/front/widget-theme-1.php:118
+msgid "Contact"
+msgstr ""
+
+#: views/front/widget-theme-2.php:62
+#: views/front/widget-theme-3.php:90
+msgid "Online"
+msgstr ""
